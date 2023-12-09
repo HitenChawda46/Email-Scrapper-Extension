@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Email Scrapper",
+    "version": "1.0.0",
+    "description": "Scrap all emails from web pages",
+    "author": "Hiten Chawda",
+    "action":{
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
